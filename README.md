@@ -31,4 +31,6 @@ So that's me thank you.</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthzidzid&" alt="sidharthzidzid" /></p>
 <h1 align="center">Skills</h1>
 <br>
-<img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css,javascript,arduino,raspberrypi,github,linux,nodejs,php"/>
+<img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css"/>
+ <img src ="https://skillicons.dev/icons?i=javascript,arduino,raspberrypi,github,linux,nodejs,php,vscode"/>
+<a href="https://www.hacksquad.dev/ticket/Sidharthzidzid"><img src="https://skillicons.dev/icons?i=c"/></a>
