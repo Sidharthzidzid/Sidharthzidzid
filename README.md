@@ -11,6 +11,14 @@
 - 📫 How to reach me **sidharthvnair3@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr>
 <h3 align="center" style="color:black;">I completed my upper secondary education in state school kerala.
 Now I am doing my B.E. in computer science and engineering in AJ Institute of Engineering and Technology.
 l like to do computer programming and l am interested in doing project works. I participated in many exhibition.
@@ -39,3 +47,4 @@ So that's me thank you.</h3>
 <a href="https://www.linkedin.com/in/sidharth-v-nair-aa2111256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
 <a href="https://instagram.com/sidharth_v_nair?igshid=NGVhN2U2NjQ0Yg=="><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-blue%20?style=social&logo=instagram&logoColor=red-blue"/></a>
 <a href="https://x.com/SidharthVNair?t=BsOCmC649VZYq53bd6qExQ&s=09"><img alt="Static Badge" src="https://img.shields.io/badge/twitter-blue?style=social&logo=X"/></a>
+<a href="mailto:sidharthvnair3@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-blue?style=social&logo=Gmail&logoColor=Red"/></a>
