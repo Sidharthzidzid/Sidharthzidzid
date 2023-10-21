@@ -33,4 +33,4 @@ So that's me thank you.</h3>
 <br>
 <img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css"/>
  <img src ="https://skillicons.dev/icons?i=javascript,arduino,raspberrypi,github,linux,nodejs,php,vscode"/>
-<a href="https://www.hacksquad.dev/ticket/Sidharthzidzid"><img src="https://skillicons.dev/icons?i=c"/></a>
+<a href="https://www.hacksquad.dev/ticket/Sidharthzidzid"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
