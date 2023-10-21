@@ -37,5 +37,5 @@ So that's me thank you.</h3>
  <h1 align="center">Connect with me</h1>
  <hr>
 <a href="https://www.linkedin.com/in/sidharth-v-nair-aa2111256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-
 <a href="https://instagram.com/sidharth_v_nair?igshid=NGVhN2U2NjQ0Yg=="><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-blue%20?style=social&logo=instagram&logoColor=red-blue"/></a>
+<a href="https://x.com/SidharthVNair?t=BsOCmC649VZYq53bd6qExQ&s=09"><img alt="Static Badge" src="https://img.shields.io/badge/twitter-blue?style=social&logo=X"/></a>
