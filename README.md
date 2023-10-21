@@ -14,8 +14,6 @@ So that's me thank you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthzidzid&label=Profile%20views&color=008000&style=flat" alt="sidharthzidzid" /> </p>
 
-- 
-
 - 🌱 I’m currently learning **App and Web Development**
 
 - 💬 Ask me about **programming related c, python, Web development**
