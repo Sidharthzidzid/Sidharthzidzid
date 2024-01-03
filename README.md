@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **App and Web Development**
 
-- 💬 Ask me about **programming related c, python, Web development**
+- 💬 Ask me about **programming related flutter, python, Web development**
 
 - 📫 How to reach me **sidharthvnair3@gmail.com**
 
